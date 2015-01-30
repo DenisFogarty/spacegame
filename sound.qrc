@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>Sound/laser.wav</file>
+        <file>Sound/pipe.wav</file>
+        <file>Sound/power.wav</file>
+        <file>Sound/engine.wav</file>
+        <file>Sound/eat.wav</file>
+        <file>Sound/blank.wav</file>
+        <file>Sound/drink.wav</file>
+    </qresource>
+</RCC>

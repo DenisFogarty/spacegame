@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sr.png</file>
+        <file>f1_cockpit.png</file>
+        <file>f1_elevator.png</file>
+        <file>f1_engines.png</file>
+        <file>f1_hall.png</file>
+        <file>f1_escape.png</file>
+        <file>f1_toilet.png</file>
+        <file>f1_power.png</file>
+        <file>f2_kitchen.png</file>
+        <file>f2_hall_2.png</file>
+        <file>map1.png</file>
+        <file>map2.png</file>
+        <file>map3.png</file>
+        <file>game_over.png</file>
+        <file>space_shark.png</file>
+        <file>space_dolphin.png</file>
+        <file>space_manatee.png</file>
+        <file>space_walrus.png</file>
+        <file>space.gif</file>
+        <file>f2_room1.png</file>
+        <file>f2_room2.png</file>
+        <file>f2_room3.png</file>
+        <file>f2_room4.png</file>
+        <file>f2_hall.png</file>
+        <file>CREDITS.gif</file>
+        <file>space_angler.png</file>
+        <file>microchip.png</file>
+        <file>f3_weapons.png</file>
+        <file>f1_closet.png</file>
+    </qresource>
+</RCC>
